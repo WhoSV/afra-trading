@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](ttps://github.com/WhoSV/afra-trading)
 
-<!-- v1.0.0 -->
+<!--  v1.0.0  -->
 
 ![alternativetext](screenshot.png)
 
