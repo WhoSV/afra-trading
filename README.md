@@ -1,5 +1,6 @@
 # Afra-Trading for HTML5
 
+[![GitHub version](https://badge.fury.io/gh/WhoSV%2Fafra-trading.svg)](https://badge.fury.io/gh/WhoSV%2Fafra-trading)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](ttps://github.com/WhoSV/afra-trading)
 
 <!--  v1.0.0  -->
