@@ -1,9 +1,9 @@
 # Afra-Trading for HTML5
 
+<!-- v1.0.0 -->
+
 [![GitHub version](https://badge.fury.io/gh/WhoSV%2Fafra-trading.svg)](https://badge.fury.io/gh/WhoSV%2Fafra-trading)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](ttps://github.com/WhoSV/afra-trading)
-
-<!--  v1.0.0  -->
 
 ![alternativetext](screenshot.png)
 
@@ -15,6 +15,6 @@ It is a modern, responsive, static website. All sections are independent and can
 
 _Afra-Trading_ was developed with:
 
-* HTML5
-* CSS3
-* jQuery
+- HTML5
+- CSS3
+- jQuery
